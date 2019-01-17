@@ -8,7 +8,7 @@ html, body {
 }
 
 .navbar {
-  background-color: #23415C;
+  background-color: #0079DB;
   padding: 1% 0;
   font-size: 1.2em;
 }
@@ -23,7 +23,7 @@ html, body {
   color: #FFF;
 }
 #home {
-  background: url(img/millercolby.jpg) no-repeat center center fixed;
+  background: url(img/campus.jpg) no-repeat center center fixed;
   display: table;
   height: 100%;
   position: relative;
@@ -55,8 +55,8 @@ html, body {
 }
 footer {
   width: 100%;
-  background-color: #23415C;
-  padding: 5% 5% 10% 5%;
+  background-color: #0079DB;
+  padding: 4% 4% 4% 4%;
   color: #FFF;
 }
 .fa {
