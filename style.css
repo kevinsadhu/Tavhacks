@@ -2,6 +2,11 @@ html, body {
     height: 100%;
     width: 100%;
 }﻿
+
+#yalla {
+    border: 5px solid black;
+}
+
 .navbar {
   background-color: #23415C;
   padding: 1% 0;
@@ -18,7 +23,7 @@ html, body {
   color: #FFF;
 }
 #home {
-  background: url(img/alex.png) no-repeat center center fixed;
+  background: url(img/millercolby.jpg) no-repeat center center fixed;
   display: table;
   height: 100%;
   position: relative;
