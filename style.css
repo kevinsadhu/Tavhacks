@@ -23,13 +23,14 @@ html, body {
   color: #FFF;
 }
 #home {
-  background: url(img/campus.jpg) no-repeat center center fixed;
+  background: url(img/connect.jpg) no-repeat center center fixed;
   display: table;
   height: 100%;
   position: relative;
   width: 100%;
   background-size: cover;
 }
+
 .landing-text {
   display: table-cell;
   text-align: center;
